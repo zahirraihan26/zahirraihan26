@@ -3,7 +3,12 @@
 <h3 align="center">🚀 MERN Stack Developer</h3>
 
 <p align="center">
-  <img src="banner.png" alt="Zahir Raihan Banner" />
+ <p align="center">
+  <img src="https://i.ibb.co.com/GNzS1yk/banner.png" 
+       alt="Zahir raihan Banner" 
+       width="800px" 
+       height="450px" />
+</p>
 </p>
 
 <p align="center">
@@ -67,7 +72,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahirraihan26&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zahirraihan26&show_icons=true&theme=radical&cache_seconds=3600" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=zahirraihan26&theme=radical" alt="GitHub Streak" />
   <br />
