@@ -21,7 +21,8 @@
 
 🎯 I’m a MERN Stack developer passionate about building modern, clean and user-friendly web applications.  
 📍 **Location:** Jashore, Khulna, Bangladesh  
-📧 **Email:** zahirraihan3026@gmail.com  
+📧 **Email:** mdzahirraihanbakul@gmail.com 
+
 📞 **Phone**: 01615734276
 
 ---
@@ -59,7 +60,7 @@
   <a href="https://facebook.com/md.zahir.raihan.40048" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:zahirraihan3026@gmail.com" target="_blank">
+  <a href="mailto:mdzahirraihanbakul@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/8801615734276" target="_blank">
